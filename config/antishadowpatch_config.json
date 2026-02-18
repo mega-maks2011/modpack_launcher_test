@@ -1,0 +1,37 @@
+{
+  "Block_Updates": {
+    "BringBackSOSuppression": true,
+    "BringBackCCESuppression": true,
+    "BringBackTrapdoorUpdateSkipping": true
+  },
+  "Blocks": {
+    "BringBackFloatingRedstoneComponentsOnTopOfTrapdoor": true,
+    "BringBackFurnaceXPDupe": true
+  },
+  "Block_Entities": {
+    "BringBackBlockEntitySwap": true,
+    "KeepBlocksWithSwappedBlockEntities": true
+  },
+  "Items": {
+    "BringBackItemShadowing_1_17": true,
+    "BringBackItemShadowing_1_18": true,
+    "BringBackCurseBookOverstacking": false,
+    "BringBackOverstackedItemMovement_1_20": false
+  },
+  "World": {
+    "BringBackChunkSaveState_1_14": false,
+    "BringBackChunkSaveState_1_21": false
+  },
+  "Entities": {
+    "BringBackOldDragonFreezing": true,
+    "BringBackEndPortalDragonDupe": true,
+    "BringBackArmorStandInvulnerableToWitherDamage": true,
+    "BringBackShadowItemsInMobInventory": true,
+    "BringBackVoidlessVoidTrading": true
+  },
+  "Misc": {
+    "BringBackGracefulSOHandling": true,
+    "BringBackGracefulOOMHandling": true
+  },
+  "lastLoadedVersion": 8
+}

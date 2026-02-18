@@ -1,0 +1,45 @@
+/carpet shadowItemTooltip true
+/carpet shadowItemInventoryFragilityFix true
+/carpet setDefault shadowItemInventoryFragilityFix true
+/carpet setDefault shadowItemPreventCombine true
+/carpet setDefault shadowItemTransferFragilityFix true
+/carpet setDefault shadowItemUpdateFix true
+/carpet setDefault shadowItemTransferFragilityFix
+/carpet setDefault shadowItemTransferFragilityFix true
+/carpet setDefault shadowItemUseFix true
+/carpet shadowItemTransferFragilityFix false
+/carpet shadowItemTransferFragilityFix true
+/carpet shadowItemInventoryFragilityFix true
+/carpet shadowItemInventoryFragilityFix false
+/carpet shadowItemPreventCombine false
+/carpet shadowItemTooltip false
+/carpet shadowItemTransferFragilityFix false
+/carpet shadowItemUseFix false
+/carpet shadowItemUseFix true
+/carpet shadowItemTooltip true
+/carpet shadowItemPreventCombine true
+/carpet shadowItemTransferFragilityFix true
+/carpet setDefault shadowItemInventoryFragilityFix true
+/carpet setDefault shadowItemInventoryFragilityFix false
+/carpet setDefault shadowItemPreventCombine true
+/carpet setDefault shadowItemTransferFragilityFix true
+/carpet setDefault shadowItemUpdateFix true
+/carpet setDefault shadowItemUseFix true
+/carpet setDefault shadowItemInventoryFragilityFix true
+/carpet setDefault shadowItemInventoryFragilityFix false
+/difficulty peaceful
+/carpet shadowItemInventoryFragilityFix
+/carpet shadowItemTransferFragilityFix
+/carpet shadowSuppressionGeneration true
+/carpet shadowSuppressionGeneration false
+/carpet shadowItemUseFix false
+/difficulty peaceful
+/carpet shadowItemUseFix
+/carpet shadowItemUseFix true
+/carpet shadowItemUseFix
+/carpet shadowItemUseFix false
+/carpet shadowItemUseFix true
+/carpet shadowItemInventoryFragilityFix true
+/carpet shadowItemInventoryFragilityFix false
+/carpet shadowItemTooltip true
+/difficulty peaceful
