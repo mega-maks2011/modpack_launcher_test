@@ -1,4 +1,4 @@
 {
-  eneble: true
+  enable: true
   branch: "1.21.11"
 }
