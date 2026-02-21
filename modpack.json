@@ -2,6 +2,6 @@
   "enabled": true,
   "technical work": false,
   "loader": "forge",
-  "loader_version": "61.1.1",
-  "MC_version": "1.21.11",
+  "loader_version": "60.1.8",
+  "MC_version": "1.21.10",
 }
