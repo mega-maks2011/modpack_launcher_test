@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "technical work": false,
-  "loader": "neoforge",
-  "loader_version": "21.11.38-beta",
+  "loader": "forge",
+  "loader_version": "61.1.1",
   "MC_version": "1.21.11",
 }
