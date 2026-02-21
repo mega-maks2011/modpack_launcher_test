@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "technical work": false,
-  "loader": "forge",
-  "loader_version": "61.1.1",
+  "loader": "quilt",
+  "loader_version": "0.30.0-beta.3",
   "MC_version": "1.21.11",
 }
