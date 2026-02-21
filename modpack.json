@@ -1,8 +1,7 @@
 {
   "enabled": true,
   "technical work": false,
-  # fabric forge neoforge quilt
-  "loader": "fabric",
-  "loader_version": "0.18.4",
+  "loader": "neoforge",
+  "loader_version": "21.11.38-beta",
   "MC_version": "1.21.11",
 }
