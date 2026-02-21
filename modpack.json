@@ -1,7 +1,7 @@
-  {
+{
   "enabled": true,
   "technical work": false,
+  "loader": "fabric",
+  "loader_version": "0.18.4",
   "MC_version": "1.20.1",
-  "FB_version": "0.18.4",
-  "MP_version": "0.0.1"
 }
