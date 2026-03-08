@@ -1,0 +1,40 @@
+{
+	"enabled": true,
+	"fall_damage": true,
+	"jHud": {
+		"ssjHud": {
+			"show_ssj": false,
+			"ssj_x_offset": 50,
+			"ssj_y_offset": 52
+		},
+		"efficiencyHud": {
+			"show_efficiency": false,
+			"efficiency_x_offset": 50,
+			"efficiency_y_offset": 55
+		},
+		"speedHud": {
+			"show_current_speed": false,
+			"speed_x_offset": 1,
+			"speed_y_offset": 98
+		},
+		"prespeedHud": {
+			"show_prespeed": false,
+			"prespeed_x_offset": 1,
+			"prespeed_y_offset": 95
+		},
+		"gaugeHud": {
+			"show_gauge": false,
+			"horizontal_gauge": false,
+			"gauge_x_offset": 98,
+			"gauge_y_offset": 50
+		}
+	},
+	"movement": {
+		"sv_friction": 0.35,
+		"sv_accelerate": 0.1,
+		"sv_airaccelerate": 1.0E99,
+		"sv_maxairspeed": 0.009,
+		"speed_mul": 2.2,
+		"sv_gravity": 0.066
+	}
+}
