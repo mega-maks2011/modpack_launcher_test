@@ -1,0 +1,109 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+enable_alternative_health_bar = false
+show_full_health_bar = true
+fill_direction = "LEFT_TO_RIGHT"
+show_current_value_overlay = false
+show_icon = false
+enable_smooth_animation = true
+show_number = false
+
+[positionSettings]
+origin = "BOTTOM_MIDDLE"
+is_centered = false
+offsets_x = [
+    [ 0, -91 ]
+]
+offsets_y = [
+    [ 0, -39 ]
+]
+
+[textureSettings]
+
+[textureSettings.backgroundTextureSettings]
+texture_heights = [
+    [ 0, 5 ]
+]
+texture_widths = [
+    [ 0, 182 ]
+]
+texture_ids = [
+    [ 0, "healthregenerationoverhaul:textures/gui/sprites/hud/horizontal_health_background.png" ]
+]
+
+[textureSettings.progressTextureSettings]
+offset_x = 0
+offset_y = 0
+texture_heights = [
+    [ 0, 5 ]
+]
+texture_widths = [
+    [ 0, 182 ]
+]
+progress_decrease_animation_texture_ids = [
+    [ 0, "healthregenerationoverhaul:textures/gui/sprites/hud/horizontal_health_progress_decrease_animation.png" ]
+]
+progress_increase_animation_texture_ids = [
+    [ 0, "healthregenerationoverhaul:textures/gui/sprites/hud/horizontal_health_progress_increase_animation.png" ]
+]
+progress_increase_value_texture_ids = [
+    [ 0, "healthregenerationoverhaul:textures/gui/sprites/hud/horizontal_health_progress_increase_value.png" ]
+]
+progress_texture_ids = [
+    [ 0, "healthregenerationoverhaul:textures/gui/sprites/hud/horizontal_health_progress.png" ]
+]
+
+[textureSettings.reservedTextureSettings]
+offset_x = 0
+offset_y = 0
+texture_heights = [
+    [ 0, 5 ]
+]
+texture_widths = [
+    [ 0, 182 ]
+]
+texture_ids = [
+    [ 0, "healthregenerationoverhaul:textures/gui/sprites/hud/horizontal_health_reserved.png" ]
+]
+
+[textureSettings.overlayTextureSettings]
+offset_x = -2
+offset_y = 0
+texture_heights = [
+    [ 0, 5 ]
+]
+texture_widths = [
+    [ 0, 5 ]
+]
+texture_ids = [
+    [ 0, "healthregenerationoverhaul:textures/gui/sprites/hud/horizontal_health_overlay.png" ]
+]
+
+[iconTextureSettings]
+offset_x = 0
+offset_y = 0
+texture_heights = [
+    [ 0, 0 ]
+]
+texture_widths = [
+    [ 0, 0 ]
+]
+texture_ids = [  ]
+
+[animationSettings]
+animation_interval = 1
+max_value_change_is_animated = false
+
+[numberSettings]
+show_max_value = false
+show_when_health_full = true
+offset_x = 0
+offset_y = -40
+
+[numberSettings.color]
+# Red component, 0 to 255
+r = 150
+# Green component, 0 to 255
+g = 150
+# Blue component, 0 to 255
+b = 150
