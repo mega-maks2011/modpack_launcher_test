@@ -1,0 +1,20 @@
+{
+  "states": {
+    "unfocused": {
+      "frame_rate_target": 0,
+      "volume_multipliers": {
+        "master": 0.0
+      },
+      "run_garbage_collector": true
+    },
+    "invisible": {
+      "run_garbage_collector": true
+    },
+    "abandoned": {
+      "volume_multipliers": {
+        "master": 0.5
+      },
+      "run_garbage_collector": true
+    }
+  }
+}
