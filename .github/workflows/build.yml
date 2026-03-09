@@ -33,5 +33,5 @@ jobs:
       - name: Upload build artifact
         uses: actions/upload-artifact@v4
         with:
-          name: launcher-jar
+          name: Minecraft_launcher
           path: build/libs/*.jar
