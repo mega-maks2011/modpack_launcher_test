@@ -1,18 +1,16 @@
 <configuration>
-    <!-- Параметры, которые можно переопределить через системные свойства -->
+
     <property name="LOG_PATH" value="logs" />
     <property name="APP_NAME" value="launcher" />
     <property name="LOG_PATTERN_CONSOLE" value="%d{HH:mm:ss.SSS} %clr(%5p) %clr([%15.15t]){faint} %clr(%logger{36}){cyan} %clr(:){faint} %m%n" />
     <property name="LOG_PATTERN_FILE"   value="%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %m%n" />
 
-    <!-- Консольный аппендер с цветами -->
     <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
         <encoder>
             <pattern>${LOG_PATTERN_CONSOLE}</pattern>
         </encoder>
     </appender>
 
-    <!-- Файловый аппендер с ротацией по дням -->
     <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
         <file>${LOG_PATH}/${APP_NAME}.log</file>
         <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
@@ -24,9 +22,9 @@
         </encoder>
     </appender>
 
-    <!-- Корневой логгер -->
     <root level="INFO">
         <appender-ref ref="CONSOLE"/>
         <appender-ref ref="FILE"/>
     </root>
+
 </configuration>
