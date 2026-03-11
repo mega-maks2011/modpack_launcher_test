@@ -3,5 +3,6 @@
   "technical work": false,
   "loader": "quilt",
   "loader_version": "0.30.0-beta.3",
-  "MC_version": "1.21.11"
+  "MC_version": "1.21.11",
+  "static" : false
 }
