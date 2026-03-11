@@ -4,4 +4,5 @@
   "loader" : "fabric",
   "loader_version": "0.18.4",
   "MC_version": "1.20.1",
+  "static" : false
 }
