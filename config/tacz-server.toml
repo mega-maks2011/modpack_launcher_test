@@ -18,10 +18,10 @@
 	WeightSpeedMultiplier = 0.015
 	#All head shot damage number is multiplied by this factor
 	#Range: 0.0 ~ 1.7976931348623157E308
-	HeadShotBaseMultiplier = 1.0
+	HeadShotBaseMultiplier = 3.0
 	#All base damage number is multiplied by this factor
 	#Range: 0.0 ~ 1.7976931348623157E308
-	DamageBaseMultiplier = 1.0
+	DamageBaseMultiplier = 2.381
 
 [misc]
 	#Deprecated. Use vanilla server resource pack
